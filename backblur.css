@@ -171,14 +171,6 @@
   .u-container{
       right: 50%;
       top: 100px;
-      font-size: 1.5em;
-  }
-  
-  
-  .back{
-      left: 100px;
-      top: 100px;
-      font-size: 1rem;
   }
   .container{
       height: 95%;
@@ -196,9 +188,9 @@
       position: fixed;
   }
   .inner_card{
-    width: 75%;
-    height: 35%;
-    position: fixed;
-    top: 250;
-}
+      width: 75%;
+      position: fixed;
+      top: 250;
+  }
+ 
 }
